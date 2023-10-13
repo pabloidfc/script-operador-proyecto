@@ -2,6 +2,7 @@
 
 opciones=(
     "Mostrar información del sistema"
+    "Mostrar contenedores activos"
     "Salir"
 )
 
